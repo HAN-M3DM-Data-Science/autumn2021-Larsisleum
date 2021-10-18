@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Lars Bunnik
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,21 +10,19 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Watch this video if you don't know how to embed video's ---->
+<---- <iframe width="560" height="315" src="https://www.youtube.com/embed/ajgmjWevOoY?start=437" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
-
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+One of the most widely used data analytics is tracking market trends. For instance, Hello Fresh makes data-driven decisions based on market trends by harnessing Google’s keyword planner to analyze trends in searches at specific periods of time. They also perform data analyses on dishes people eat at restaurants.
+Data analytics is also used to ensure that the MPS’s offerings are aligned with customers' seasonal demands. This process involves understanding what food dishes are popular during a specific season and, based on analytics, suitable dishes are then created and served to customers during that time period.
 
 ## How did the organization apply 3DM?
+Hello Fresh follows 4 steps when implementing a new experiment that tests a new DDDM tool or idea. This cicle can be seen in the image below:
+![image](https://user-images.githubusercontent.com/85441972/137776597-a676fb5d-0904-4e89-9649-5276ce5e0ffa.png)
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Hello Fresh is identifying the season’s demand through customer data, which can include for instance knowledge of customers’ celebration of certain religious observances or cultural festivals. For example, Hello Fresh uses data analytics together with knowledge of holidays like Thanksgiving Day to prepare turkey and pumpkin related recipes.
 
 ## What can the organization do with 3DM that they couldn’t do before?
-
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+They have a better way of getting to know their customer by constantly collecting and analysing their data.
