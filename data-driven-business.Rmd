@@ -9,17 +9,57 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+This is a breakdown on how to create business impact with data science from the Chief Scientist at Deliveroo.
+<---- <iframe width="560" height="315" src="https://www.youtube.com/embed/7iZ-oR3jLXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ---->
 
 
 ## What features define a data driven business?
+This is the definition by atinternet: (https://www.atinternet.com/en/glossary/data-driven/)
+When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation.A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers. By using data to drive its actions, an organisation can contextualise and/or personalise its messaging to its prospects and customers for a more customer-centric approach.
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
 
 ## What are the important features of a data culture?
+I found the seven principles that underpin a healthy data culture. In "Why data culture matters" From McKinsey Quarterly. I find these principles very fitting the points that were talked about in the course.
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+1. DATA CULTURE IS DECISION CULTURE 
+The takeaway: Don’t approach data analysis as a cool “science experiment” or an exercise in amassing data for data’s sake. The fundamental objective incollecting, analyzing, and deploying data is to make better decisions.
+
+2. DATA CULTURE, C-SUITE IMPERATIVES, AND THE BOARD 
+The takeaway: Commitment from the CEO and the board is essential. But that commitment must be manifested by more than occasional high-level pronouncements; there must be an ongoing, informed conversation with top decision makers and those who lead data initiatives throughout the organization.
+
+3. THE DEMOCRATIZATION OF DATA
+The takeaway: Get data in front of people and they get excited. But building cool experiments or imposing tools top-down doesn’t cut it. To create a competitive advantage, stimulate demand for data from the grass roots.
+
+4. DATA CULTURE AND RISK
+The takeaway: An effective data culture puts risk at its core—a “yin and yang” of your value proposition. Although companies must identify their “red lines” and honor them, risk management should operate as a smart accelerator, by introducing analytics into key processes and interactions in a responsible manner.
+
+5. CULTURE CATALYSTS
+The takeaway: The board and the CEO raise the data clarion, and the people on the front lines take up the call. But to really ensure buy-in, someone’s got to lead the charge. That requires people who can bridge both worlds—data science and on-the-ground operations. And usually, the most effective change agents are not digital natives. 
+
+6. SHARING DATA BEYOND COMPANY WALLS? NOT SO FAST
+The takeaway: There’s increasing buzz about a coming shift to ecosystems, with the assumption that far greater value will be delivered to customers by assembling a breadth of the best data and analytics assets available in the market rather than by creating everything in-house. Yet data leaders are building cultures that see data as the “crown jewel” asset, and data analytics is treated as both proprietary and a source of competitive advantage in a more interconnected world.
+
+MARRYING TALENT AND CULTURE
+The takeaway: The competition for data talent is unrelenting. But there’s another element at play: integrating the right talent for your data culture. That calls for striking the appropriate balance for your institution between injecting new employees and transforming existing ones. Take a broader view in sourcing and a sharper look at the skills your data team requires (exhibit).
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+I couldn't find a "standard" list of steps that is agreed upon within the branche. But when creating a business model for a mature data driven business i think the six questions below are key to be answered and need to be continually monitored (Externally aswell) and managed. The steps are described in the research paper from the University of Cambridge and are as follows:
 
+1. What do we want to achieve by using big data?
+2. What is our desired offering?
+3. What data do we require and how are we going to acquire it?
+4. In what ways are we going to process and apply this data?
+5. How are we going to monetize it?
+6. What are the barriers to us accomplishing our goal?
+
+This is an example of already existing and start-up companies.
+![image](https://user-images.githubusercontent.com/85441972/137727016-0f4ec8c3-c755-4763-a355-ff2c0f9ef0c9.png)
+
+Although monitoring and managing the business processes that follow, when realizing the answers given for each question, will give structure to the data driven business, it is unrealistic to think that this is all there is to it. In the end just like Michael says in the video it comes down to responsibility and a team of really smart people asking themselves the hard questions all the time and also acknowlaging that just theory is not enough to do everything right the first time. 
+references:
+
+https://hbr.org/2012/12/what-a-big-data-business-model
+Datagedrevenbusinessmodelleneenverkennin 
+FukuokaDatadrivenBMfoodConfpaper
+InnovationBlueprin
+A. Hayashi, ‘Thriving in a Big Data World’. MIT Sloan Management Review (2014).
