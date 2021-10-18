@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Lars Bunnik
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,17 +10,38 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<---- <iframe width="560" height="315" src="https://www.youtube.com/embed/7iZ-oR3jLXM?start=437" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ---->
 
 
 ## What was the business problem?
+In may 2016 deliveroo was heavily reliant on manual input. This means that when a customer made an order, some time later the restaurant worker had to call for a rider for the order without the sytem doing any processing work. The order for a rider would then just go into a FIFO queue and match the nearest rider when its place in the queue came up. This is a critical logistical decision that now is in the hands of the restaurant worker. Plus there were all the inaccurate time estimations of things like the preperation of the food, the rider making his way to the restaurant and then the rider making his way to the customer. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+So the problem Deliveroo faced was the fact that the delivery proces was heavily reliant on manual input and manual estimations from restaurant workers and riders resulting in inefficient deliveries and in the end longer delivery time.
 
 ## How was it translated into a data mining problem?
+To structurally display how this problem was translated into a datamining problem i will use the ECLIPSE model from Wildridge and Bell (2002)
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Mnemonic	        Question	                                            Answer
+E	Expectation:    Why does the user want the information?	              Deliveroo wants to collect restaurant (food preperation time, location, travel time from riders in the                                                                           past) and customer/rider data (location, average delivery time) to automatically and more accurately                                                                             realise deliveries. 
+C	Client Group:   For whom is the service / product intended?	          For the R&D department (the people responsible for innovation)
+L	Location:       Where is the service / product sited?	                The data is both internally (delivery time history, restaurant locations) and externally (location of the                                                                         customer, rider)
+I	Impact:         What would represent success? How is this measured?	  A reduction in rider %lateness at customer, rider to restaurant travel time and rider %lateness at                                                                               restaurant.
+P	Professionals:  Who provides or improves the service / product?	      The needed steps of estimating travel time and calling for riders were done manually. 
+SE	Service:      What type of service / product is under consideration?Customer, rider and restaurant satisfaction with Deliveroo.	
+
+By automating the estimation and decision processes based on data mining Deliveroo could improve its service.
 
 ## What is the realized business value?
+In the end Deliveroo has increased its service to the customer, restaurants and riders. This is quantitatively shown in the graphs below:
+![image](https://user-images.githubusercontent.com/85441972/137743029-03d10331-2005-41ab-932d-4d8c5cd782d5.png)
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Also this is an overview of the old and the new proces that Deliveroo has created:
+
+Old: ![image](https://user-images.githubusercontent.com/85441972/137743258-c1138b48-b9ad-4cd1-a684-38654424d4c4.png)
+New: ![image](https://user-images.githubusercontent.com/85441972/137743321-43b0eb6e-1a69-46d1-8fd3-b130f7a45646.png)
+
+
+References:
+Data-driven business models in the food business
+https://www.youtube.com/watch?v=7iZ-oR3jLXM
+https://doi.org/https://doi.org/10.1046/j.1471-1842.2002.00378.x.
