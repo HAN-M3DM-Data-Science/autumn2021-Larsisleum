@@ -43,7 +43,7 @@ MARRYING TALENT AND CULTURE
 The takeaway: The competition for data talent is unrelenting. But there’s another element at play: integrating the right talent for your data culture. That calls for striking the appropriate balance for your institution between injecting new employees and transforming existing ones. Take a broader view in sourcing and a sharper look at the skills your data team requires (exhibit).
 
 ## What are the transformation steps towards a mature data driven business?
-I couldn't find a "standard" list of steps that is agreed upon within the branche. But when creating a business model for a mature data driven business i think the six questions below are key to be answered and need to be continually monitored (Externally aswell) and managed. The steps are described in the research paper from the University of Cambridge and are as follows:
+I couldn't find a "standard" list of steps that is agreed upon within the branche. But when creating a business model for a mature data driven business i think creating a foundation and structural guidelines around the things the company is doing with data should be the focus. I did find six steps that are described in a research paper from the University of Cambridge and i think  these questions are key to be answered and can give a nice foundation that the data driven business can be build opon. Altho i do think it has value that this does keep getting monitored (Externally aswell) and managed. These are the six questions:
 
 1. What do we want to achieve by using big data?
 2. What is our desired offering?
